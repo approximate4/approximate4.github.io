@@ -1,0 +1,80 @@
+1 Aggravated Assault (EO2) 25
+1 Anara, Wolvid Familiar (CMR) 577
+1 Ancient Greenwarden (ZNR) 357
+1 Arid Mesa (ZNE) 30
+1 Atarka's Command (DTK) 213
+1 Avenger of Zendikar (DDP) 1
+1 Beast Whisperer (KHC) 54
+1 Beast Within (AFC) 133
+1 Beastmaster Ascension (C16) 142
+1 Bloodstained Mire (ZNE) 3
+1 Bow of Nylea (THS) 153
+1 Brushfire Elemental (ZNR) 311
+1 Cinder Glade (AFC) 229
+1 Command Tower (AFC) 170
+1 Court of Bounty (CMR) 676
+1 Cragcrown Pathway (ZNR) 287
+1 Cultivate (M21) 317
+1 Decimate (SLD) 140
+1 Destructive Revelry (THS) 192
+1 Dolmen Gate (LRW) 256
+1 Eldrazi Monument (C15) 253
+1 Exploration (2XM) 351
+1 Explosive Vegetation (DTK) 186
+1 Farseek (TSR) 363
+1 Fires of Yavimaya (CNS) 188
+13 Forest (ZNR) 278
+1 Gaea's Cradle (USG) 321
+1 Genesis Wave (IMA) 164
+1 Grand Warlord Radha (DAR) 195
+1 Guardian Project (RNA) 130
+1 Harvest Season (KHC) 63
+1 Hellkite Charger (C17) 138
+1 Heroic Intervention (AFC) 161
+1 Hydra Omnivore (C18) 153
+1 Impact Tremors (DTK) 140
+1 Jeska, Thrice Reborn (CMR) 513
+1 Kamahl, Heart of Krosa (CMR) 581
+1 Karametra's Acolyte (THS) 160
+1 Kodama's Reach (CMR) 681
+1 Kogla, the Titan Ape (IKO) 328
+1 Krosan Grip (C21) 198
+1 Legion Loyalist (GK1) 82
+1 Lotus Cobra (ZNR) 307
+1 Mina and Denn, Wildborn (ZNC) 94
+1 Misty Rainforest (ZNE) 10
+1 Moraug, Fury of Akoum (ZNR) 300
+10 Mountain (ZNR) 275
+1 Nature's Lore (DDD) 17
+1 Nature's Will (CHK) 230
+1 Ohran Frostfang (C19) 33
+1 Oracle of Mul Daya (JMP) 415
+1 Pathbreaker Ibex (C15) 38
+1 Proud Wildbonder (IKO) 229
+1 Quartzwood Crasher (IKO) 341
+1 Radha, Heart of Keld (M21) 380
+1 Rampaging Baloths (000) 42
+1 Red Sun's Zenith (MBS) 74
+1 Rootbound Crag (XLN) 256
+1 Sakura-Tribe Elder (C20) 187
+1 Scalding Tarn (ZNE) 7
+1 Scute Swarm (ZNR) 308
+1 Shamanic Revelation (000) 138
+1 Skyshroud Claim (BBD) 213
+1 Sol Ring (CC1) 7
+1 Soul of the Harvest (JMP) 432
+1 Spire Garden (ZNE) 19
+1 Stomping Ground (RNA) 259
+1 Stonebrow, Krosan Hero (TSP) 247
+1 Tectonic Giant (THB) 323
+1 Three Visits (CMR) 686
+1 Urabrask the Hidden (IMA) 152
+1 Verdant Catacombs (ZNE) 8
+1 Wayward Swordtooth (RIX) 150
+1 Windswept Heath (ZNE) 5
+1 Wood Elves (000) 80
+1 Wooded Foothills (ZNE) 4
+1 Wrap in Vigor (CNS) 183
+1 Yorvo, Lord of Garenbrig (ELD) 376
+1 Zendikar Resurgent (C17) 160
+
